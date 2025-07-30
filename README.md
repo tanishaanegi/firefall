@@ -31,11 +31,11 @@ This project builds upon a classroom example and reimagines the concept with fal
 
 ### 📷 Screenshots
 
-[Game Start](screenshot1.png)
+![Game Start](screenshot1.png)
 
-[Game Over](screenshot2.png)
+![Game Over](screenshot2.png)
 
-[Game Win](screenshot3.png)
+![Game Win](screenshot3.png)
 
 
 ---
